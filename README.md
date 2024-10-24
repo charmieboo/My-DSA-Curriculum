@@ -1,5 +1,3 @@
-#Charmaine is editing
-
 # The DSA Curriculum
 This repository is for the excos to upload their curriculum materials for future sub-comms to use. Please feel free to fork this repository for your own use!
 
